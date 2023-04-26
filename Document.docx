@@ -1,1 +1,7 @@
-That is so funny! :joy:
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
